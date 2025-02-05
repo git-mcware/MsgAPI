@@ -1,0 +1,4 @@
+name: MsgAPI
+version: '1.0'
+main: me.mcware.msgAPI.MsgAPI
+api-version: '1.21'
